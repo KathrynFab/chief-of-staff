@@ -39,6 +39,6 @@ Delegate: <task> → <person>
 
 ## 4. Sync (on "yes")
 - Todoist project "Production Plan", one section per JD area; tasks = next actions with due date =
-  planned day, deadline = real deadline, labels per `context/preferences.md`. No PHI.
+  planned day, real deadline as `**Deadline: …**` at the start of the description (no deadline field on her plan), labels per `context/preferences.md`. No PHI.
 - Offer focus blocks on the calendar for the top 2 outcomes.
 - Update `context/priorities.md` "This week's outcomes" (no PHI; it's committed to git).

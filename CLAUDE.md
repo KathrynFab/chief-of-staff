@@ -46,7 +46,8 @@ Connectors), then continue with what you have. Never guess.
 4. **Jira, Todoist and Notion writes need a reason.** Add or change tasks when Kathryn asks or when
    a skill's step says to offer it — then confirm what you added in one line.
 5. Todoist "due" ≠ Jira "due". In Todoist, *due* is when she plans to work on it; a hard
-   deadline goes in Todoist's *deadline* field. In Jira, *Due date* is a real commitment.
+   deadline goes at the start of the task description as `**Deadline: <Mon D, YYYY>.**` (her Todoist
+   plan has no deadline field). In Jira, *Due date* is a real commitment.
 6. "Matt" is ambiguous (Matt Survis, CEO / Matt Hollingsworth, President). Transcripts spell
    Kathryn "Catherine" and Joh "Joe". See Notion → People & Names.
 

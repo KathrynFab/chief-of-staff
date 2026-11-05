@@ -55,4 +55,6 @@ Edit freely — every skill reads this file.
   7. Growth partnership `6hwMvgWg49Jgm3r8` · 8. Systems & process `6hwMvgXW8hxCfCCg` ·
   9. Budget & labor cost `6hwMvgXCJCfhVXf8`
 - Labels: waiting, delegated, L10, deep-work, quick. Create `1on1-<firstname>` labels when team.md is filled in.
+- Free plan: no deadline field — write `**Deadline: <date>.**` first in the description.
+- Bucket 1 (Q4 2026) items loaded 2026-11-05: 12 tasks, no due dates yet (scheduled by /production-plan).
 - If the JD areas change, rename/merge these sections to match.
