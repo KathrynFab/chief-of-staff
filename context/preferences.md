@@ -32,6 +32,23 @@ Edit freely — every skill reads this file.
 
 ## Todoist IDs
 - Production Plan project: `6hwMvg7Qv6wwmJ38` (board view, favorited)
+- Sections (match JD areas): 1. Build the team `6hwMvgX7644XJMJ8` · 2. Culture & Care Partners `6hwMvgcmMqjqwfx8` ·
+  3. Client service `6hwMvgchP9J2pHg8` · 4. Optimize & grow `6hwMvgXX7wjvr9f8` · 5. Hand-offs `6hwMvgWRf7jxVjMg`
+- Labels: @waiting, @delegated, @L10, @1on1-<name>, @deep-work, @quick
+- Priority mapping: P1 = safety/coverage or due today, P2 = commitment this week, P3 = plan work, P4 = someday
+
+## Check-ins
+- Personal check-in: morning (2 questions) and end of day (3 questions). Keep it under 2 minutes.
+
+## Notion
+- Chief of Staff (private): https://app.notion.com/p/40f4e189edc98123bd2ee4df8f3584a8
+- Daily Check-ins: https://app.notion.com/p/7b9548c049f14c53b25ef5ac7a40ef6f — data source `collection://2ac64f23-e38a-42f2-acb9-a9c74083413d`
+  (Name = "<date> <Morning|End of day>", Date, Type, Energy, Win, On my mind, Tomorrow)
+- Team Check-ins: https://app.notion.com/p/b624c7db280446989b7d2f0ec2c86e92 — data source `collection://71786fdb-f837-4fc2-9437-2ddb2eb65478`
+  (Person, Date, Mood, Topics, Follow-ups)
+
+## Todoist IDs
+- Production Plan project: `6hwMvg7Qv6wwmJ38` (board view, favorited)
 - Sections: 1. Office performance `6hwMvgX7644XJMJ8` · 2. Staffing & scheduling `6hwMvgcmMqjqwfx8` ·
   3. Care-partner retention `6hwMvgchP9J2pHg8` · 4. Client experience `6hwMvgXX7wjvr9f8` ·
   5. Compliance & quality `6hwMvgWRf7jxVjMg` · 6. EOS & L10 rollout `6hwMvgWp6XwPPcx8` ·
