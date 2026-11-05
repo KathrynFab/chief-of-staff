@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Microsoft_365__get_me",
+      "mcp__Microsoft_365__outlook_email_search",
+      "mcp__Microsoft_365__outlook_calendar_search",
+      "mcp__Microsoft_365__outlook_find_available_time",
+      "mcp__Microsoft_365__find_meeting_availability",
+      "mcp__Microsoft_365__chat_message_search",
+      "mcp__Microsoft_365__search_people",
+      "mcp__Microsoft_365__read_resource",
+      "mcp__Microsoft_365__outlook_create_draft",
+      "mcp__Microsoft_365__outlook_create_reply_draft",
+      "mcp__Microsoft_365__outlook_create_reply_all_draft",
+      "mcp__Microsoft_365__outlook_update_draft",
+      "mcp__Fireflies__fireflies_get_transcripts",
+      "mcp__Fireflies__fireflies_get_summary",
+      "mcp__Fireflies__fireflies_search",
+      "mcp__Fireflies__fireflies_get_user",
+      "mcp__Notion__notion-search",
+      "mcp__Notion__notion-fetch",
+      "mcp__Notion__notion-query-data-sources",
+      "mcp__Atlassian_MCP__searchJiraIssuesUsingJql",
+      "mcp__Atlassian_MCP__getJiraIssue",
+      "mcp__Atlassian_MCP__atlassianUserInfo"
+    ],
+    "deny": [
+      "mcp__Microsoft_365__outlook_send_mail",
+      "mcp__Microsoft_365__outlook_send_draft",
+      "mcp__Microsoft_365__outlook_forward_mail",
+      "mcp__Microsoft_365__outlook_batch_delete_messages",
+      "mcp__Microsoft_365__outlook_trash_thread",
+      "mcp__Microsoft_365__outlook_delete_event",
+      "mcp__Microsoft_365__outlook_set_vacation",
+      "mcp__Microsoft_365__teams_send_chat_message",
+      "mcp__Microsoft_365__teams_send_channel_message",
+      "mcp__Microsoft_365__teams_reply_channel_message"
+    ]
+  }
+}
