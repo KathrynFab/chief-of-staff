@@ -22,3 +22,10 @@ Edit freely — every skill reads this file.
 
 ## Check-ins
 - Personal check-in: morning (2 questions) and end of day (3 questions). Keep it under 2 minutes.
+
+## Notion
+- Chief of Staff (private): https://app.notion.com/p/40f4e189edc98123bd2ee4df8f3584a8
+- Daily Check-ins: https://app.notion.com/p/7b9548c049f14c53b25ef5ac7a40ef6f — data source `collection://2ac64f23-e38a-42f2-acb9-a9c74083413d`
+  (Name = "<date> <Morning|End of day>", Date, Type, Energy, Win, On my mind, Tomorrow)
+- Team Check-ins: https://app.notion.com/p/b624c7db280446989b7d2f0ec2c86e92 — data source `collection://71786fdb-f837-4fc2-9437-2ddb2eb65478`
+  (Person, Date, Mood, Topics, Follow-ups)
