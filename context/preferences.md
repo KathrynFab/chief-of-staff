@@ -29,3 +29,13 @@ Edit freely — every skill reads this file.
   (Name = "<date> <Morning|End of day>", Date, Type, Energy, Win, On my mind, Tomorrow)
 - Team Check-ins: https://app.notion.com/p/b624c7db280446989b7d2f0ec2c86e92 — data source `collection://71786fdb-f837-4fc2-9437-2ddb2eb65478`
   (Person, Date, Mood, Topics, Follow-ups)
+
+## Todoist IDs
+- Production Plan project: `6hwMvg7Qv6wwmJ38` (board view, favorited)
+- Sections: 1. Office performance `6hwMvgX7644XJMJ8` · 2. Staffing & scheduling `6hwMvgcmMqjqwfx8` ·
+  3. Care-partner retention `6hwMvgchP9J2pHg8` · 4. Client experience `6hwMvgXX7wjvr9f8` ·
+  5. Compliance & quality `6hwMvgWRf7jxVjMg` · 6. EOS & L10 rollout `6hwMvgWp6XwPPcx8` ·
+  7. Growth partnership `6hwMvgWg49Jgm3r8` · 8. Systems & process `6hwMvgXW8hxCfCCg` ·
+  9. Budget & labor cost `6hwMvgXCJCfhVXf8`
+- Labels: waiting, delegated, L10, deep-work, quick. Create `1on1-<firstname>` labels when team.md is filled in.
+- If the JD areas change, rename/merge these sections to match.
