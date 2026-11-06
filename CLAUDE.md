@@ -75,6 +75,15 @@ Rank anything competing for Kathryn's time in this order:
 | `/production-plan` | Weekly production plan from JD + Rocks + L10 to-dos, synced to Todoist |
 | `/meetings` | Prep for upcoming meetings or debrief recent ones (action items → Todoist + follow-up drafts) |
 
+## Quick list commands (Todoist "To Do")
+Kathryn can say these in plain words at any time; act right away, then confirm in one line.
+- **"Done: <task>" / "mark <task> off"** → find the task by name (`find-tasks` searchText) and complete it (`complete-tasks`).
+  If several match, list them and ask which.
+- **"Note on <task>: <text>"** → add a Todoist comment (`add-comments`, notifyUsers ["none"]). No client names or health details.
+- **"Add <task>"** → new task; pick the section (KPIs · Rocks · Pebbles · Housekeeping) and say which you chose.
+- **"Move <task> to <date>"** → `reschedule-tasks`.
+- **"What's left?"** → open tasks in "To Do" by section, due today/overdue first.
+
 ## Style
 - Lead with the answer. Bullets over paragraphs. Times in Pacific.
 - Every brief ends with **"Top 3 today"** and **"Waiting on you"** (people blocked by her).
