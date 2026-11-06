@@ -21,3 +21,7 @@
 | Matt Hollingsworth | MH | Co-founder & President/CPO; runs product & IT | mh@apexcare.com |
 | Joh Olson, RN | JO | President (Kathryn reports to Joh; Notion lists COO); organizes ApexCare L10 | jo@apexcare.com |
 | Jason Wu | JW | President of ApexCare (moving to advisory) | jason@apexcare.com |
+
+## Office & ops team (from calendar, Nov 2026 — confirm roles)
+BM Meeting attendees: Adele Jeppesen, Diana Blaga, Debbie Kay (+ Joh). On-call/office: Tricia Bracy, Roslyn Bay,
+Chassidy Diazponce, Itzel Moreno, Caitlyn Rentfrow, Priscilla Brown. Weekly Week in View goes to office@apexcare.com.

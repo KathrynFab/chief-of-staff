@@ -1,6 +1,6 @@
 ---
 name: production-plan
-description: Build or review Kathryn's weekly production plan from her job description, Rocks, L10 to-dos, Scorecard and calendar capacity, and sync it to the Todoist "Production Plan" project. Use for "plan my week", "production plan", "weekly review", "what should I focus on this week", "Sunday/Monday planning", "update my to-do list from my JD".
+description: Build or review Kathryn's weekly production plan from her job description, Rocks, L10 to-dos, Scorecard and calendar capacity, and sync it to the Todoist "To Do" project. Use for "plan my week", "production plan", "weekly review", "what should I focus on this week", "Sunday/Monday planning", "update my to-do list from my JD".
 ---
 
 # Production plan (weekly)
@@ -9,7 +9,7 @@ Inputs: `context/job-description.md` (Areas of responsibility + Scorecard),
 `context/priorities.md`, Notion Company Context → L10 Meetings deep dive.
 
 ## 1. Review last week (if a plan exists)
-- Todoist "Production Plan": done vs. not done; ask what to carry, drop or delegate.
+- Todoist "To Do": done vs. not done; ask what to carry, drop or delegate.
 - Ask for (or read from Metabase/Scorecard email if available) any off-track KPIs.
 
 ## 2. Gather this week
@@ -38,7 +38,7 @@ Delegate: <task> → <person>
 ```
 
 ## 4. Sync (on "yes")
-- Todoist project "Production Plan", one section per JD area; tasks = next actions with due date =
+- Todoist project "To Do" (sections KPIs · Rocks · Pebbles · Housekeeping); tasks = next actions with due date =
   planned day, real deadline as `**Deadline: …**` at the start of the description (no deadline field on her plan), labels per `context/preferences.md`. No PHI.
 - Offer focus blocks on the calendar for the top 2 outcomes.
 - Update `context/priorities.md` "This week's outcomes" (no PHI; it's committed to git).

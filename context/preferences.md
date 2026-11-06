@@ -30,7 +30,12 @@ Edit freely — every skill reads this file.
 - Team Check-ins: https://app.notion.com/p/b624c7db280446989b7d2f0ec2c86e92 — data source `collection://71786fdb-f837-4fc2-9437-2ddb2eb65478`
   (Person, Date, Mood, Topics, Follow-ups)
 
-## Todoist IDs
+## Todoist — main list: "To Do" (`6hwWv8FR8HCM37h5`)
+Sections: KPIs `6hwWv8gMCfp9vMC5` (scorecard reviews, recurring) · Rocks `6hwWv8hF5RQrGqJX` (90-day priorities) ·
+Pebbles `6hwWv8gxVgp9F3m5` (smaller projects) · Housekeeping `6hwWv8hcvm7MxM3X` (day-to-day, follow-ups).
+All new tasks go here. Bucket 1 tasks were moved here on 2026-11-06; "Production Plan" is now empty/legacy.
+
+## Todoist IDs (legacy Production Plan)
 - Production Plan project: `6hwMvg7Qv6wwmJ38` (board view, favorited)
 - Sections (match JD areas): 1. Build the team `6hwMvgX7644XJMJ8` · 2. Culture & Care Partners `6hwMvgcmMqjqwfx8` ·
   3. Client service `6hwMvgchP9J2pHg8` · 4. Optimize & grow `6hwMvgXX7wjvr9f8` · 5. Hand-offs `6hwMvgWRf7jxVjMg`
@@ -47,7 +52,12 @@ Edit freely — every skill reads this file.
 - Team Check-ins: https://app.notion.com/p/b624c7db280446989b7d2f0ec2c86e92 — data source `collection://71786fdb-f837-4fc2-9437-2ddb2eb65478`
   (Person, Date, Mood, Topics, Follow-ups)
 
-## Todoist IDs
+## Todoist — main list: "To Do" (`6hwWv8FR8HCM37h5`)
+Sections: KPIs `6hwWv8gMCfp9vMC5` (scorecard reviews, recurring) · Rocks `6hwWv8hF5RQrGqJX` (90-day priorities) ·
+Pebbles `6hwWv8gxVgp9F3m5` (smaller projects) · Housekeeping `6hwWv8hcvm7MxM3X` (day-to-day, follow-ups).
+All new tasks go here. Bucket 1 tasks were moved here on 2026-11-06; "Production Plan" is now empty/legacy.
+
+## Todoist IDs (legacy Production Plan)
 - Production Plan project: `6hwMvg7Qv6wwmJ38` (board view, favorited)
 - Sections: 1. Office performance `6hwMvgX7644XJMJ8` · 2. Staffing & scheduling `6hwMvgcmMqjqwfx8` ·
   3. Care-partner retention `6hwMvgchP9J2pHg8` · 4. Client experience `6hwMvgXX7wjvr9f8` ·

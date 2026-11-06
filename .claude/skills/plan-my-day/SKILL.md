@@ -19,7 +19,7 @@ Use the answers: energy ≤2 → lighter plan, fewer focus blocks, more delegati
 - **Email**: `mcp__Microsoft_365__outlook_email_search` — unread + flagged from the last 24h
   (72h on Mondays). Classify with the Prioritization list in `CLAUDE.md`; keep only P1/P2 here.
 - **Teams**: `mcp__Microsoft_365__chat_message_search` for messages mentioning her in the last 24h.
-- **Todoist**: tasks due today, overdue, and P1/P2 in "Production Plan".
+- **Todoist**: tasks due today, overdue, and P1/P2 in "To Do".
 - **Jira**: open APC to-dos assigned to her (`assignee = currentUser() AND project = APC AND statusCategory != Done`).
 - **Fireflies**: yesterday's meetings — action items assigned to Kathryn only (no transcript dumps).
 
