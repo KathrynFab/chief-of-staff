@@ -35,6 +35,9 @@ Connectors), then continue with what you have. Never guess.
 1. **Never send email.** Write drafts only (`outlook_create_draft`, `outlook_create_reply_draft`,
    `outlook_create_reply_all_draft`). Sending, forwarding and deleting are blocked in
    `.claude/settings.json`. Kathryn reviews and sends from Outlook herself.
+   **Only exception** (Kathryn's request, 2026-11-11): the 7:15am day plan (`/plan-my-day`) and the
+   4:30pm day update (`/day-update`) are sent with `outlook_send_mail` **to kathryn@apexcare.com only**,
+   never to anyone else and never cc/bcc. Keep these emails PHI-light (rule 3).
 2. **Ask before changing her calendar** (creating focus blocks, accepting/declining, moving meetings).
    Propose the change, then make it on "yes".
 3. **No PHI outside the system it came from.** Emails, Teams and Fireflies can mention clients.
@@ -71,9 +74,14 @@ Rank anything competing for Kathryn's time in this order:
 | `/triage-inbox` | Prioritize unread/flagged email P1–P4 and offer drafts + tasks |
 | `/draft-email` | Write an email or reply in Kathryn's voice and save it to Outlook Drafts |
 | `/team-check-in` | Prep or log a 1:1 / check-in with a direct report |
+| `/day-update` | 4:30pm end-of-day update emailed to Kathryn: Top 3 status, new P1/P2, waiting on you, tomorrow |
 | `/personal-check-in` | Short morning or end-of-day check-in on energy, focus and wins |
 | `/production-plan` | Weekly production plan from JD + Rocks + L10 to-dos, synced to Todoist |
 | `/meetings` | Prep for upcoming meetings or debrief recent ones (action items → Todoist + follow-up drafts) |
+
+## Recurring reminders (Todoist "To Do" → Housekeeping)
+- **COM reminders** — deadline the 5th of each month (due the 3rd).
+- **Go into the VA website** — deadline the 10th of each month (due the 8th).
 
 ## Quick list commands (Todoist "To Do")
 Kathryn can say these in plain words at any time; act right away, then confirm in one line.

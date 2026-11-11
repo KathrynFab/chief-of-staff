@@ -43,3 +43,9 @@ PHI rule: describe client items by office/role only.
 - Put focus blocks on the calendar (`outlook_create_event`, show as busy, title "Focus: <topic>").
 - Add new tasks / reschedule overdue ones in Todoist (no PHI in task names).
 - Prep notes for any meeting flagged 📝 → `/meetings prep`.
+
+## 5. Email the brief (scheduled 7:15am run)
+When run by the morning routine (or when Kathryn asks), send the full brief as one HTML email with
+`outlook_send_mail` to **kathryn@apexcare.com only**, subject "Your day — <Day Mon D>". Unattended runs:
+skip the check-in and write "Check-in pending: reply with energy 1–5 and today's win" at the top; list
+calendar/Todoist/Jira changes as proposals, don't make them. No client names or care details.
